@@ -1,14 +1,40 @@
-<html>
+<!DOCKTYPE html>
+<html lang="eng">
     <head>
+        <title> Flask Login Application </title>
+        <link rel="stylesheet" href="/static/styles.css" type="text/css" >
     </head>
 
     <body>
-    
+        <h1> Users registration </h1>
+        <ul>
+        <li><p> In place of username you type your valid uniqe email address. </p></li>
+        <li><p> Your password must be minimum 8 character length with at least one each of uppercase,lowecase and special character </p></li>
+        </ul>
+        <br/><br/>
+        <center>
         <form action='logup' method='POST'>
+        <ul>
+          <li>      Username :                                   
                 <input type='text' name='email' id='email' placeholder='email'/>
-                <input type='password' name='password' id='password' placeholder='password'/>
-                <input type='submit' name='submit'/>
+        
+        </li>
+        <br/><br/>
+        <li>
+              Password :      
+                <input type='password' name='password1' id='password1' placeholder='password'>
+        </li>
+        <br/><br/>
+        <li>  Repeat Password : 
+                 <input type='password' name='password2' id='password2' placeholder="repeat password"/>
+         
+        </li> 
+                <br/><br/>
+                <center>
+                <input type='submit' name='submit' id='submit'/>
+                </center>
+         </ul>
         </form>
-
+        </center>
     </body>
 </html>
