@@ -145,7 +145,7 @@ packaging==20.9
 panda==0.3.1
 pandas==1.2.4
 pandocfilters==1.4.2
-paramiko==2.6.0
+paramiko==2.10.1
 parse==1.19.0
 parsedatetime==2.4
 parso==0.5.2
