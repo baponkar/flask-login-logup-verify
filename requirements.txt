@@ -179,7 +179,7 @@ PyGObject==3.36.0
 PyICU==2.4.2
 pyinstaller==4.3
 pyinstaller-hooks-contrib==2021.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pymacaroons==0.13.0
 PyMsgBox==1.0.9
 PyMySQL==1.0.2
