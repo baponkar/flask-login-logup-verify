@@ -159,7 +159,7 @@ Pillow==8.2.0
 playsound==1.2.2
 prometheus-client==0.7.1
 prompt-toolkit==2.0.10
-protobuf==3.17.0
+protobuf==3.18.3
 psutil==5.5.1
 py-sudoku==1.0.1
 pyaes==1.6.1
