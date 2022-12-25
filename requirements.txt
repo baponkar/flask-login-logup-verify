@@ -115,7 +115,7 @@ lockfile==0.12.2
 louis==3.12.0
 lxml==4.6.3
 macaroonbakery==1.3.1
-Mako==1.1.0
+Mako==1.2.2
 Markdown==3.3.4
 MarkupSafe==1.1.0
 matplotlib==3.4.2
