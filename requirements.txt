@@ -174,7 +174,7 @@ pygal==2.4.0
 pygal-maps-world==1.0.2
 pygame==2.0.1
 PyGetWindow==0.0.9
-Pygments==2.3.1
+Pygments==2.7.4
 PyGObject==3.36.0
 PyICU==2.4.2
 pyinstaller==4.3
